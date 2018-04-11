@@ -1,0 +1,4 @@
+https://github.com/Anachron/i3blocks
+https://github.com/bookercodes/setupi3
+https://fontawesome.com/cheatsheet
+https://fontawesome.com/icons?d=gallery&s=brands,light,regular,solid
