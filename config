@@ -199,7 +199,7 @@ bindsym $mod+c exec google-chrome
 bindsym $mod+m exec nautilus
 bindsym $mod+g exec gedit
 bindsym $mod+q exec qbittorrent
-bindsym Control_L+Alt_L+p exec poweroff
+bindsym $mod+Shift+p exec poweroff
 
 # Starup
 exec_always feh --bg-scale /usr/share/backgrounds/code.png
