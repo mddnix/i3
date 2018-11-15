@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-fill '/home/madhu/.local/share/images/blue.png' 
